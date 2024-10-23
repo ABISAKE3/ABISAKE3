@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abisake t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abisake t" height="30" width="40" /></a>
 <a href="https://fb.com/abi shake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abi shake" height="30" width="40" /></a>
-<a href="https://instagram.com/___mr__cap___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mr__cap___" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_abi_shake_03/profilecard/?igsh=MWh0NGl6MjY1bWp2Zg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mr__cap___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abisake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abisake" height="30" width="40" /></a>
 </p>
 
